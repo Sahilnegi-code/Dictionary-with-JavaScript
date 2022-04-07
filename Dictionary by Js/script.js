@@ -1,6 +1,6 @@
 const input = document.getElementById('input');
 const search_btn = document.getElementById('search_btn');
-const apiKey = '0c5a6843-1c09-4215-ad57-fcfc378b2f65';
+const apiKey = '';
 const not_found = document.querySelector('.not_found');
 const defination_box = document.querySelector('.def');
 const audio_box = document.querySelector('.audio');
